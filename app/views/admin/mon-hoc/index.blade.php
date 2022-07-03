@@ -1,6 +1,7 @@
 @extends('layouts.main')
 @section('title', 'Danh sách môn học')
 @section('content')
+{{-- upadte --}}
 <table class="table table-hover">
     <thead>
         <th>Mã môn</th>
